@@ -1,4 +1,4 @@
 Chapter 1: Physics and Geometry
 
-autonStream.m
+Fig. 1.3:  autonStream.m
 
