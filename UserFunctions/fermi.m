@@ -1,0 +1,1 @@
+% Fermi function.% Usage: Fermi(x), where x is a vector.% y = 1./(1+exp(x))function y = fermi(x)y = 1./(1+exp(x));

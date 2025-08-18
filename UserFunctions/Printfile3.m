@@ -1,0 +1,1 @@
+% function y = Printfile3(txt,x,y,z);% Procedure prints a filefunction y = Printfile3(txt,x,y,z)fid1 = fopen(txt,'w')out1 = [rowvec(x);rowvec(y);rowvec(z)];fprintf(fid1,'%12.4e	%12.4e	%12.4e\n',out1);status = fclose(fid1)y = fid1;

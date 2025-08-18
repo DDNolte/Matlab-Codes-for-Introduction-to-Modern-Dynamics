@@ -1,0 +1,1 @@
+% Function Gauss(x)% returns y = exp(-x.^2).function y=gauss(x)y = exp(-x.^2);
