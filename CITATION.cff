@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Matlab Codes for Introduction to Modern Dynamics
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: David D.
+    family-names: Nolte
+    affiliation: Purdue University
+    orcid: 'https://orcid.org/0000-0002-4872-9357'
+repository-code: >-
+  https://github.com/DDNolte/Matlab-Codes-for-Introduction-to-Modern-Dynamics
+url: 'https://github.com/DDNolte'
+abstract: >-
+  This repository is a collection of Matlab codes that help
+  with examples and home-work problems for the Mechanics
+  textbook: Introduction to Modern Dynamics by David D.
+  Nolte.
+keywords:
+  - Classical Mechanics
+  - Complex Systems
+  - Special and General Relativity
+  - Synchronization
+  - Network Dynamics
+license: CC-BY-1.0
+commit: Submission Commit
+version: '1.0'
+date-released: '2025-10-06'
