@@ -3,51 +3,52 @@ This is a collection of Matlab codes that are companions to Introduction to Mode
 
 Program Name
 
-Chap. 1  
-&emsp;autonStream.m  <br>
-&emsp;&emsp; Used to generate Fig. 1.3 on pg. 11
+Chap. 1  Physics and Geometry  
+&emsp;• autonStream.m  <br>
+&emsp;&emsp; - used to generate Fig. 1.3 on pg. 11
 
-Chap. 2  
-&emsp;effpoten.m  <br>
+Chap. 2  Lagrangian Mechanics  
+&emsp;• effpoten.m  <br>
+&emsp;&emsp; - used to generate Fig. 2.7 on pg. 80
 
-Chap. 4  
-&emsp;binom.m  <br>
-&emsp;bitest.m  <br>
-&emsp;stochendriver.m  <br>
-&emsp;stochendriver.m  <br>
-&emsp;stochendriver.m  <br>
+Chap. 4  Nonlinear Dynamics and Chaos  
+&emsp;• S147.m  <br>
+&emsp;• S156ext.m  <br>
+&emsp;• effpoten.m  <br>
+&emsp;• vanddpolStream.m  <br>
+&emsp;• vdp.m  <br>
+&emsp;• vdp.m  <br>
+&emsp;• Homocline.m  <br>
+&emsp;• medio2.m  <br>
+&emsp;• logistic.m  <br>
+&emsp;• logisticgrey.m  <br>
+&emsp;• lorenz.m  <br>
+&emsp;• rossler.m  <br>
+&emsp;• Pendulum3.m  <br>
+&emsp;• Duffing.m  <br>
+&emsp;• StochRossDriver.m  <br>
+&emsp;• Rossstoch.m  <br>
+&emsp;• AHBif.m  <br>
 
-Chap. 5  
-&emsp;S147.m  <br>
-&emsp;S156ext.m  <br>
-&emsp;effpoten.m  <br>
-&emsp;vanddpolStream.m  <br>
-&emsp;vdp.m  <br>
-&emsp;vdp.m  <br>
-&emsp;Homocline.m  <br>
-&emsp;medio2.m  <br>
-&emsp;logistic.m  <br>
-&emsp;logisticgrey.m  <br>
-&emsp;lorenz.m  <br>
-&emsp;rossler.m  <br>
-&emsp;Pendulum3.m  <br>
-&emsp;Duffing.m  <br>
-&emsp;StochRossDriver.m  <br>
-&emsp;Rossstoch.m  <br>
-&emsp;AHBif.m  <br>
+Chap. 5  Hamiltonian Chaos  
+&emsp;• PenPerturb.m  <br>
+&emsp;• DoublePerturb.m  <br>
+&emsp;• Heiles.m  <br>
+&emsp;• Heiles2.m  <br>
+&emsp;• Heiles2.m  <br>
+&emsp;• Lozi2.m  <br>
+&emsp;• standmap.m  <br>
+&emsp;• webmap.m  <br>
+&emsp;• webmap.m  <br>
+&emsp;• stadtest.m  <br>
+&emsp;• stadtest.m  <br>
 
-Chap. 6
-PenPerturb.m
-DoublePerturb.m
-Heiles.m
-Heiles2.m
-Heiles2.m
-Lozi2.m
-standmap.m
-webmap.m
-webmap.m
-stadtest.m
-stadtest.m
+Chap. 6  Stochastic Dynamics  
+&emsp;• binom.m  <br>
+&emsp;• bitest.m  <br>
+&emsp;• stochendriver.m  <br>
+&emsp;• stochendriver.m  <br>
+&emsp;• stochendriver.m  <br>
 
 Chap. 7
 sinecircleplot.m
