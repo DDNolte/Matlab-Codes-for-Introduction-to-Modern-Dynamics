@@ -3,37 +3,38 @@ This is a collection of Matlab codes that are companions to Introduction to Mode
 
 Program Name
 
-Chap. 1
-autonStream.m
+Chap. 1  
+&emsp;autonStream.m  <br>
+&emsp;&emsp; Used to generate Fig. 1.3 on pg. 11
 
-Chap. 2
-effpoten.m
+Chap. 2  
+&emsp;effpoten.m  <br>
 
-Chap. 4
-binom.m
-bitest.m
-stochendriver.m
-stochendriver.m
-stochendriver.m
+Chap. 4  
+&emsp;binom.m  <br>
+&emsp;bitest.m  <br>
+&emsp;stochendriver.m  <br>
+&emsp;stochendriver.m  <br>
+&emsp;stochendriver.m  <br>
 
-Chap. 5
-S147.m
-S156ext.m
-effpoten.m
-vanddpolStream.m
-vdp.m
-vdp.m
-Homocline.m
-medio2.m
-logistic.m
-logisticgrey.m
-lorenz.m
-rossler.m
-Pendulum3.m
-Duffing.m
-StochRossDriver.m
-Rossstoch.m
-AHBif.m
+Chap. 5  
+&emsp;S147.m  <br>
+&emsp;S156ext.m  <br>
+&emsp;effpoten.m  <br>
+&emsp;vanddpolStream.m  <br>
+&emsp;vdp.m  <br>
+&emsp;vdp.m  <br>
+&emsp;Homocline.m  <br>
+&emsp;medio2.m  <br>
+&emsp;logistic.m  <br>
+&emsp;logisticgrey.m  <br>
+&emsp;lorenz.m  <br>
+&emsp;rossler.m  <br>
+&emsp;Pendulum3.m  <br>
+&emsp;Duffing.m  <br>
+&emsp;StochRossDriver.m  <br>
+&emsp;Rossstoch.m  <br>
+&emsp;AHBif.m  <br>
 
 Chap. 6
 PenPerturb.m
