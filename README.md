@@ -106,13 +106,14 @@ Lorentz2.m
 Lorentz.m
 pcE.m
 
-Chap. 13
-gravtest.m
-Schwarz.m
-newphotonorbit.m
-GRpoten.m
-Mercury.m
-MercuryState.m
-proper.m
+Chap. 13 General Relativity and Gravity  
+&emsp;• gravtest.m<br>
+&emsp;• Schwarz.m<br>
+&emsp;• newphotonorbit.m<br>
+&emsp;• GRpoten.m<br>
+&emsp;&emsp; - used to generate Fig. 13.9 on pg. 507
+&emsp;• Mercury.m<br>
+&emsp;• MercuryState.m<br>
+&emsp;• proper.m<br>
 
 
