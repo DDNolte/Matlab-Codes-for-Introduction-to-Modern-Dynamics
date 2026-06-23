@@ -111,10 +111,10 @@ Chap. 13 General Relativity and Gravity
 &emsp;• Schwarz.m<br>
 &emsp;• newphotonorbit.m<br>
 &emsp;• GRpoten.m<br>
-&emsp;&emsp; - used to generate Fig. 13.9 on pg. 507
+&emsp;&emsp; - used to generate Fig. 13.9 on pg. 507<br>
 &emsp;• Mercury.m<br>
 &emsp;• MercuryState.m<br>
-&emsp;&emsp; - used to generate Fig. 13.11 on pg. 509
+&emsp;&emsp; - used to generate Fig. 13.11 on pg. 509<br>
 &emsp;• proper.m<br>
 
 
