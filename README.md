@@ -116,5 +116,6 @@ Chap. 13 General Relativity and Gravity
 &emsp;• MercuryState.m<br>
 &emsp;&emsp; - used to generate Fig. 13.11 on pg. 509<br>
 &emsp;• proper.m<br>
+&emsp;&emsp; - used to generate Fig. 13.12 on pg. 510<br>
 
 
