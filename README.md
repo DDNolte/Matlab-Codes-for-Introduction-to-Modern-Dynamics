@@ -35,76 +35,62 @@ Chap. 5  Hamiltonian Chaos
 &emsp;• DoublePerturb.m  <br>
 &emsp;• Heiles.m  <br>
 &emsp;• Heiles2.m  <br>
-&emsp;• Heiles2.m  <br>
 &emsp;• Lozi2.m  <br>
 &emsp;• standmap.m  <br>
 &emsp;• webmap.m  <br>
-&emsp;• webmap.m  <br>
 &emsp;• stadtest.m  <br>
-&emsp;• stadtest.m  <br>
+
 
 Chap. 6  Stochastic Dynamics  
 &emsp;• binom.m  <br>
 &emsp;• bitest.m  <br>
 &emsp;• stochendriver.m  <br>
-&emsp;• stochendriver.m  <br>
-&emsp;• stochendriver.m  <br>
 
-Chap. 7
-sinecircleplot.m
-sinecircle1.m
-sinecircscan.m
-couplext.m
-dvdptest.m
-coupledvdpscan.m
-NoisyGdriver.m
-couplextlor.m
-couplelorenz.m
-coupledvdp.m
+Chap. 7  
+&emsp;• sinecircleplot.m  <br>
+&emsp;• sinecircle1.m  <br>
+&emsp;• sinecircscan.m  <br>
+&emsp;• couplext.m  <br>
+&emsp;• dvdptest.m  <br>
+&emsp;• coupledvdpscan.m  <br>
+&emsp;• NoisyGdriver.m  <br>
+&emsp;• couplextlor.m  <br>
+&emsp;• couplelorenz.m  <br>
+&emsp;• coupledvdp.m  <br>
 
-Chap. 8
-makeER.m
-makeSW.m
-makeSF.m
-coupleNdriver.m
-coupleNdriver.m
-coupledrossler.m
-coupledrossler.m
-coupleNEdriver.m
-coupleNEdriver.m
-cojupleNdriver.m
-percattack.m
-diffusiondriver.m
-diffusionmat.m
-gtest.m
-gtest.m
+Chap. 8  
+&emsp;• makeER.m  <br>
+&emsp;• makeSW.m  <br>
+&emsp;• makeSF.m  <br>
+&emsp;• coupleNdriver.m  <br>
+&emsp;• coupledrossler.m  <br>
+&emsp;• coupleNEdriver.m  <br>
+&emsp;• percattack.m  <br>
+&emsp;• diffusiondriver.m  <br>
+&emsp;• diffusionmat.m  <br>
+&emsp;• gtest.m  <br>
 
-Chap. 9
-PredPreyFlow.m
-trirepeq.m
-trirepeq.m
-repeq.m
-repeq.m
-quasiSpec.m
-repmut.m
+Chap. 9  Evolutionary Dynamics
+&emsp;• PredPreyFlow.m  <br>
+&emsp;• trirepeq.m  <br>
+&emsp;• repeq.m  <br>
+&emsp;• quasiSpec.m  <br>
+&emsp;• repmut.m  <br>
 
-Chap. 10
-FitzS.m
-FitzNsimple.m
-NaK.m
-NaKStream.m
-NaKStream.m
-NaKStream.m
-hop_demom.m
-hop_demom.m
-specklecontour.m
-spotendriver.m
-spotendriver.m
+Chap. 10 Neurodynamics  
+&emsp;• FitzS.m  <br>
+&emsp;• FitzNsimple.m  <br>
+&emsp;• NaK.m  <br>
+&emsp;• NaKStream.m  <br>
+&emsp;• hop_demom.m  <br>
+&emsp;• specklecontour.m  <br>
+&emsp;• spotendriver.m  <br>
 
-Chap. 12
-Lorentz2.m
-Lorentz.m
-pcE.m
+
+Chap. 12  Special Relativity  
+&emsp;• Lorentz2.m  <br>
+&emsp;• Lorentz.m  <br>
+&emsp;• pcE.m  <br>
 
 Chap. 13 General Relativity and Gravity  
 &emsp;• gravtest.m<br>
