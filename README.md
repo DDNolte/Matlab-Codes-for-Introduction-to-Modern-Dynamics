@@ -89,8 +89,11 @@ Chap. 10 Neurodynamics
 
 Chap. 12  Special Relativity  
 &emsp;• Lorentz2.m  <br>
+&emsp;&emsp; - used to generate Fig. 12.7 on pg. 441<br>
 &emsp;• Lorentz.m  <br>
+&emsp;&emsp; - can be used to explore similar effects as in Fig. 12.11 on pg. 447<br>
 &emsp;• pcE.m  <br>
+&emsp;&emsp; - used to generate Fig. 12.15 on pg. 459<br>
 
 Chap. 13 General Relativity and Gravity  
 &emsp;• gravtest.m<br>
