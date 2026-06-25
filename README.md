@@ -97,7 +97,9 @@ Chap. 12  Special Relativity
 
 Chap. 13 General Relativity and Gravity  
 &emsp;• Schwarz.m<br>
+&emsp;&emsp; - Schwarzschild coordinates near a black hole<br>
 &emsp;• newphotonorbit.m<br>
+&emsp;&emsp; - Calculate trajectories of photons passing a black hole<br>
 &emsp;• GRpoten.m<br>
 &emsp;&emsp; - used to generate Fig. 13.9 on pg. 507<br>
 &emsp;• Mercury.m<br>
