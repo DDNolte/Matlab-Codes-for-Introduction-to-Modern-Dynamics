@@ -96,7 +96,6 @@ Chap. 12  Special Relativity
 &emsp;&emsp; - used to generate Fig. 12.15 on pg. 459<br>
 
 Chap. 13 General Relativity and Gravity  
-&emsp;• gravtest.m<br>
 &emsp;• Schwarz.m<br>
 &emsp;• newphotonorbit.m<br>
 &emsp;• GRpoten.m<br>
