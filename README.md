@@ -13,32 +13,31 @@ Chap. 2  Lagrangian Mechanics
 
 Chap. 4  Nonlinear Dynamics and Chaos  
 &emsp;• S147.m  <br>
-&emsp;&emsp; - used to generate Fig. 4.2 on pg. 135  
+&emsp;&emsp; - Used to generate Fig. 4.2 on pg. 135  
 &emsp;• S156ext.m  <br>
-&emsp;&emsp; - used to generate Fig. 4.5 on pg. 138  
+&emsp;&emsp; - Used to generate Fig. 4.5 on pg. 138  
 &emsp;• vanddpolStream.m  <br>
-&emsp;&emsp; - used to generate Fig. 4.7 on pg. 142  
+&emsp;&emsp; - Used to generate Fig. 4.7 on pg. 142  
 &emsp;• vdp.m  <br>
 &emsp;&emsp; - Van der Pol trajectories like Fig. 4.9 on pg. 143  
 &emsp;• Homocline.m  <br>
-&emsp;&emsp; - example of a homoclinic orbit in Fig. 4.11 on pg. 148  
+&emsp;&emsp; - Example of a homoclinic orbit in Fig. 4.11 on pg. 148  
 &emsp;• medio2.m  <br>
-&emsp;&emsp; - used to generate Fig. 4.12 on pg. 149  
+&emsp;&emsp; - Used to generate Fig. 4.12 on pg. 149  
 &emsp;• logistic.m  <br>
-&emsp;&emsp; - logistic map  
+&emsp;&emsp; - Logistic map  <br>
 &emsp;• logisticgrey.m  <br>
-&emsp;&emsp; - used to generate Fig. 4.15 on pg. 153 
+&emsp;&emsp; - Used to generate Fig. 4.15 on pg. 153  
 &emsp;• lorenz.m  <br>
-&emsp;&emsp; - exploring the Lorenz model  
+&emsp;&emsp; - Exploring the Lorenz model, and for HW 4.31 on pg. 169  
 &emsp;• rossler.m  <br>
-&emsp;&emsp; - exploring the Rössler model  
+&emsp;&emsp; - Exploring the Rössler model, and for HWs 4.32 and 4.33 on pg. 169  
 &emsp;• Pendulum3.m  <br>
-&emsp;&emsp; - used to generate Fig. 4.21 on pg. 163  
+&emsp;&emsp; - Used to generate Fig. 4.21 on pg. 163, and for HWs 4.25 and 4.26 on pg. 169  
 &emsp;• Duffing.m  <br>
-&emsp;&emsp; - used to generate Fig. 4.22 on pg. 164  
-&emsp;• StochRossDriver.m  <br>
-&emsp;• Rossstoch.m  <br>
+&emsp;&emsp; - Used to generate Fig. 4.22 on pg. 164, and for HWs 4.27, 4.28, 4.29 on pg. 169  
 &emsp;• AHBif.m  <br>
+&emsp;&emsp; - Used for HW 4.22 on pg. 168 
 
 Chap. 5  Hamiltonian Chaos  
 &emsp;• PenPerturb.m  <br>
@@ -50,11 +49,12 @@ Chap. 5  Hamiltonian Chaos
 &emsp;• webmap.m  <br>
 &emsp;• stadtest.m  <br>
 
-
 Chap. 6  Stochastic Dynamics  
 &emsp;• binom.m  <br>
 &emsp;• bitest.m  <br>
 &emsp;• stochendriver.m  <br>
+&emsp;• StochRossDriver.m  <br>
+&emsp;• Rossstoch.m  <br>
 
 Chap. 7  
 &emsp;• sinecircleplot.m  <br>
