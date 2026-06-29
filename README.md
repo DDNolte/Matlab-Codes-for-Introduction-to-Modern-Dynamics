@@ -45,14 +45,17 @@ Chap. 5  Hamiltonian Chaos
 &emsp;• DoublePerturb.m  <br>
 &emsp;&emsp; - Used to generate Fig. 5.2 on pg. 174  
 &emsp;• Heiles.m  <br>
-&emsp;&emsp; - Used to generate Figs. 5.4, 5.5 and 5.6 on pgs. 179, 180 and 181  
+&emsp;&emsp; - Used to generate Figs. 5.4, 5.5 and 5.6 on pgs. 179-181  
 &emsp;• Heiles2.m  <br>
 &emsp;&emsp; - Exploring the Henon-Heiles system
 &emsp;• Lozi2.m  <br>
 &emsp;&emsp; - Used to generate Fig. 5.7 on pg. 181  
 &emsp;• standmap.m  <br>
+&emsp;&emsp; - Used to generate Fig. 5.11 on pg. 185  
 &emsp;• webmap.m  <br>
+&emsp;&emsp; - Used to generate Fig. 5.12 on pg. 189  
 &emsp;• stadtest.m  <br>
+&emsp;&emsp; - Used to generate Figs. 5.14 and 5.15 on pgs. 190-191 
 
 Chap. 6  Stochastic Dynamics  
 &emsp;• binom.m  <br>
