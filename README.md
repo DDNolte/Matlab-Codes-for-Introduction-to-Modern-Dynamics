@@ -59,10 +59,16 @@ Chap. 5  Hamiltonian Chaos
 
 Chap. 6  Stochastic Dynamics  
 &emsp;• binom.m  <br>
+&emsp;&emsp; - Used to generate Fig. 6.1 on pg. 201  
 &emsp;• bitest.m  <br>
+&emsp;&emsp; - Used to generate Fig. 6.6 on pg. 214  
 &emsp;• stochendriver.m  <br>
+&emsp;&emsp; - Calls double2stoch.m  
+&emsp;• double2stoch.m  <br>
 &emsp;• StochRossDriver.m  <br>
+&emsp;&emsp; - Used to generate Fig. 6.12 on pg. 229  
 &emsp;• Rossstoch.m  <br>
+&emsp;&emsp; - Used to generate Fig. 6.13 on pg. 230  
 
 Chap. 7  Synchronization  
 &emsp;• sinecircleplot.m  <br>
