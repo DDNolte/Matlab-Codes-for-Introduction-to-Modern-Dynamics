@@ -41,10 +41,15 @@ Chap. 4  Nonlinear Dynamics and Chaos
 
 Chap. 5  Hamiltonian Chaos  
 &emsp;• PenPerturb.m  <br>
+&emsp;&emsp; - Used to generate Fig. 5.1 on pg. 173  
 &emsp;• DoublePerturb.m  <br>
+&emsp;&emsp; - Used to generate Fig. 5.2 on pg. 174  
 &emsp;• Heiles.m  <br>
+&emsp;&emsp; - Used to generate Figs. 5.4, 5.5 and 5.6 on pgs. 179, 180 and 181  
 &emsp;• Heiles2.m  <br>
+&emsp;&emsp; - Exploring the Henon-Heiles system
 &emsp;• Lozi2.m  <br>
+&emsp;&emsp; - Used to generate Fig. 5.7 on pg. 181  
 &emsp;• standmap.m  <br>
 &emsp;• webmap.m  <br>
 &emsp;• stadtest.m  <br>
