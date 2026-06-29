@@ -75,13 +75,20 @@ Chap. 6  Stochastic Dynamics
 
 Chap. 7  Synchronization  
 &emsp;• sinecircleplot.m  <br>
+&emsp;&emsp; - Used to generate Fig. 7.7 on pg. 246  
 &emsp;• sinecircle1.m  <br>
+&emsp;&emsp; - Used to generate Fig. 7.8 on pg. 247  
 &emsp;• sinecircscan.m  <br>
+&emsp;&emsp; - Used to generate Fig. 7.9 on pg. 248  
 &emsp;• couplext.m  <br>
+&emsp;&emsp; - Used to generate Fig. 7.11 on pg. 251  
 &emsp;• dvdptest.m  <br>
 &emsp;&emsp; - Used to generate Fig. 7.13 on pg. 253  
 &emsp;• coupledvdpscan.m  <br>
+&emsp;• NoisySdriver.m  <br>
+&emsp;&emsp; - Used to generate Fig. 7.16 on pg. 256  
 &emsp;• NoisyGdriver.m  <br>
+&emsp;&emsp; - Used to generate Fig. 7.17 on pg. 256  
 &emsp;• couplextlor.m  <br>
 &emsp;• couplelorenz.m  <br>
 &emsp;• coupledvdp.m  <br>
