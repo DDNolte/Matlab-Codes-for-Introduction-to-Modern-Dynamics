@@ -85,13 +85,17 @@ Chap. 7  Synchronization
 &emsp;• dvdptest.m  <br>
 &emsp;&emsp; - Used to generate Fig. 7.13 on pg. 253  
 &emsp;• coupledvdpscan.m  <br>
+&emsp;&emsp; - Used to generate Fig. 7.14 on pg. 254  
 &emsp;• NoisySdriver.m  <br>
 &emsp;&emsp; - Used to generate Fig. 7.16 on pg. 256  
 &emsp;• NoisyGdriver.m  <br>
 &emsp;&emsp; - Used to generate Fig. 7.17 on pg. 256  
 &emsp;• couplextlor.m  <br>
+&emsp;&emsp; - Used to generate Fig. 7.18 on pg. 258  
 &emsp;• couplelorenz.m  <br>
+&emsp;&emsp; - Used to generate Fig. 7.19 on pg. 259  
 &emsp;• coupledvdp.m  <br>
+&emsp;&emsp; - Coupled van der Pol oscillators.  
 
 Chap. 8  Network Dynamics  
 &emsp;• makeER.m  <br>
