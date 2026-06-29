@@ -63,8 +63,11 @@ Chap. 6  Stochastic Dynamics
 &emsp;• bitest.m  <br>
 &emsp;&emsp; - Used to generate Fig. 6.6 on pg. 214  
 &emsp;• stochendriver.m  <br>
-&emsp;&emsp; - Calls double2stoch.m  
+&emsp;&emsp; - Calls double2stoch.m  and double3stoch.m  
 &emsp;• double2stoch.m  <br>
+&emsp;&emsp; - Rössler model.  Called by stochendriver.m  
+&emsp;• double3stoch.m  <br>
+&emsp;&emsp; - Duffing model.  Called by stochendriver.m  
 &emsp;• StochRossDriver.m  <br>
 &emsp;&emsp; - Used to generate Fig. 6.12 on pg. 229  
 &emsp;• Rossstoch.m  <br>
