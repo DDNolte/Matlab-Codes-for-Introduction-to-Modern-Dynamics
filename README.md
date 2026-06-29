@@ -56,7 +56,7 @@ Chap. 6  Stochastic Dynamics
 &emsp;• StochRossDriver.m  <br>
 &emsp;• Rossstoch.m  <br>
 
-Chap. 7  Synchronization
+Chap. 7  Synchronization  
 &emsp;• sinecircleplot.m  <br>
 &emsp;• sinecircle1.m  <br>
 &emsp;• sinecircscan.m  <br>
@@ -68,7 +68,7 @@ Chap. 7  Synchronization
 &emsp;• couplelorenz.m  <br>
 &emsp;• coupledvdp.m  <br>
 
-Chap. 8  Network Dynamics
+Chap. 8  Network Dynamics  
 &emsp;• makeER.m  <br>
 &emsp;• makeSW.m  <br>
 &emsp;• makeSF.m  <br>
@@ -80,7 +80,7 @@ Chap. 8  Network Dynamics
 &emsp;• diffusionmat.m  <br>
 &emsp;• gtest.m  <br>
 
-Chap. 9  Evolutionary Dynamics
+Chap. 9  Evolutionary Dynamics  
 &emsp;• PredPreyFlow.m  <br>
 &emsp;• trirepeq.m  <br>
 &emsp;• repeq.m  <br>
