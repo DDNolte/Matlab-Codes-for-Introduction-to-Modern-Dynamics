@@ -56,7 +56,7 @@ Chap. 6  Stochastic Dynamics
 &emsp;• StochRossDriver.m  <br>
 &emsp;• Rossstoch.m  <br>
 
-Chap. 7  
+Chap. 7  Synchronization
 &emsp;• sinecircleplot.m  <br>
 &emsp;• sinecircle1.m  <br>
 &emsp;• sinecircscan.m  <br>
@@ -68,7 +68,7 @@ Chap. 7
 &emsp;• couplelorenz.m  <br>
 &emsp;• coupledvdp.m  <br>
 
-Chap. 8  
+Chap. 8  Network Dynamics
 &emsp;• makeER.m  <br>
 &emsp;• makeSW.m  <br>
 &emsp;• makeSF.m  <br>
