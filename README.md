@@ -79,6 +79,7 @@ Chap. 7  Synchronization
 &emsp;• sinecircscan.m  <br>
 &emsp;• couplext.m  <br>
 &emsp;• dvdptest.m  <br>
+&emsp;&emsp; - Used to generate Fig. 7.13 on pg. 253  
 &emsp;• coupledvdpscan.m  <br>
 &emsp;• NoisyGdriver.m  <br>
 &emsp;• couplextlor.m  <br>
